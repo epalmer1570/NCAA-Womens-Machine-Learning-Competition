@@ -16,5 +16,7 @@
 
 **Test Data: ** 2019 regular season data - predict winning percentage chance by all 2016 potential games (64 teams x63 potential opponents/ 2 teams per game)
 
+Please see HTML output for a high level overview of the project
+
 
 
