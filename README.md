@@ -1,6 +1,6 @@
 # NCAA-Womens-Machine-Learning-Competition
 ##title: "Github_Womens Machine learning"
-#### output: html_document
+#### output: PDF_document
 
 
  **Created for Google Machine learning competition
@@ -16,7 +16,7 @@
 
 **Test Data: ** 2019 regular season data - predict winning percentage chance by all 2016 potential games (64 teams x63 potential opponents/ 2 teams per game)
 
-Please see HTML output for a high level overview of the project
+Please see PDF output for a high level overview of the project
 
 
 
